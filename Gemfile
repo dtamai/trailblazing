@@ -6,6 +6,7 @@ gem 'rails', '~> 5.1.4'
 gem 'sqlite3'
 
 gem 'trailblazer-rails'
+gem 'tzinfo-data'
 
 group :development, :test do
   gem 'byebug'
